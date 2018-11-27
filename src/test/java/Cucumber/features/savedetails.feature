@@ -8,6 +8,6 @@ Scenario :To check that the user profile updation works
   When the user selects the state from the state dropdown
   And  uploads his/her image
   And  clicks on the Save results buttons
-  Then user validates that the new information is persisted successfully
+  Then user validates that the new information persists successfully
 
 
