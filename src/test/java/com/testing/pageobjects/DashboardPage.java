@@ -17,7 +17,7 @@ public class DashboardPage extends BasePage {
 
 
     @FindBy(xpath = "//*[@placeholder='Email']")
-    WebElement Dashboardheading;
+    WebElement Dashboardheadingicon;
 
 
 }
