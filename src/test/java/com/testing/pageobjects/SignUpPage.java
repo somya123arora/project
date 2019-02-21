@@ -17,21 +17,21 @@ public class SignUpPage extends BasePage {
 
 
         @FindBy(xpath = "//*[@placeholder='Email']")
-        public static WebElement email;
+        private static WebElement email;
 
         @FindBy(xpath ="//*[@placeholder='Password']")
-        public static WebElement password;
+        private static WebElement password;
 
         @FindBy(xpath = "//*[@id='btn-signin']")
         public static WebElement signin_button;
 
 
         @FindBy(name = "//*[@id='btn-signin']")
-        public static WebElement forgot_passwordlink;
+        private static WebElement forgot_passwordlink;
 
 
         @FindBy(name = "//*[@id='btn-signin']")
-       public static WebElement CreateAccountLink;
+        private static WebElement CreateAccountLink;
 
 
   public String getSignUpPagetitle()

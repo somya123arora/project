@@ -70,13 +70,6 @@
             <scope>test</scope>
         </dependency>
 
-        <dependency>
-            <groupId>info.cukes</groupId>
-            <artifactId>cucumber-testng</artifactId>
-            <version>1.2.5</version>
-            <scope>test</scope>
-        </dependency>
-
             <dependency>
                 <groupId>org.testng</groupId>
                 <artifactId>testng</artifactId>
@@ -96,13 +89,6 @@
             <artifactId>maven-compiler-plugin</artifactId>
             <version>3.8.0</version>
         </dependency>
-        <dependency>
-            <groupId>javaframework</groupId>
-            <artifactId>javaframework</artifactId>
-            <version>1.0</version>
-            <scope>test</scope>
-        </dependency>
-
         <dependency>
             <groupId>info.cukes</groupId>
             <artifactId>gherkin</artifactId>
