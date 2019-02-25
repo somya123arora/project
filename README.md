@@ -11,4 +11,4 @@ The test automation framework is comprised of following tools and libraries
 *Selenium WebDriver: - Browser automation framework *Selenium Grid: - Distribute test Execution across several machines
 *JAVA: - Programming language
 *TestNg: - TestNg Java testing framework
-*Maven: - Build tools
+*Maven: - Build tool
