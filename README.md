@@ -2,7 +2,7 @@ BDD with page object pattern test automation framework using selenium webdriver,
 
 This framework supports automation of : - *Web Browsers (Firefox, Chrome, Internet Explorer, Safari)
 
-TOOLS AND LIBRARIES
+TOOLS AND LIBRARIES which 
 
 The test automation framework is comprised of following tools and libraries
 
